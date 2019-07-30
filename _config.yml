@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://ayugioh2003.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:title/ #:year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -29,7 +29,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md #:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -56,6 +56,21 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  軟體: software
+  編程: programming
+  生活: life
+  議題: issue
+  其他: other
+  商業思維: business-thinking
+  UX研究: ux-research
+  UX設計: ux-design
+  UI設計: ui-design
+  前端設計: frontend-design
+  前端開發: frontend-develop
+  前端工程: frontend-engineering
+  後端開發: backend
+  電腦科學: computer-science
+  部落格設定: blog-setting
 tag_map:
 
 # Date / Time format
@@ -81,4 +96,3 @@ deploy:
   type: git
   repo: https://github.com/ayugioh2003/ayugioh2003.github.io.git
   branch: master
-
