@@ -60,6 +60,7 @@ category_map:
   編程: programming
   生活: life
   議題: issue
+  工具: tool
   其他: other
   商業思維: business-thinking
   UX研究: ux-research
@@ -88,7 +89,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next-5.1.4
+theme: hexo-theme-next-7.2.0
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
