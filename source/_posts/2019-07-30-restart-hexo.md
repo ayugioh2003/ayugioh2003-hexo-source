@@ -34,7 +34,8 @@ hexo server
 ## 主題安裝
 
 Hexo 預設的主題滿簡潔的，在 banner 處會有一顆大月亮，我上一版的主題就是預設的。因為 Ray 的教學中有提到 NeXT 的主題替換，而我也想換換口味，所以也將主題換成 NeXT 了。除了 Ray 的教學文，NeXT 官方網站也有提到替換的方式
-* [开始使用 - NexT 使用文档](https://theme-next.iissnan.com/getting-started.html)
+* [开始使用 - NexT 使用文档](https://theme-next.iissnan.com/getting-started.html) <- 舊版。已停止更新
+* [theme-next/hexo-theme-next at v7.2.0](https://github.com/theme-next/hexo-theme-next/tree/v7.2.0) <- 新版。推薦使用
 
 ## Hexo 基礎設定
 
