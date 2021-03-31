@@ -28,3 +28,4 @@ nvm use 12.18.3
 
 ## 參考資料
 - [node14+版本下hexo部署失败 | EVE | 暴风雨前夕](https://evestorm.github.io/posts/430/)
+- [TypeError [ERR_INVALID_ARG_TYPE]: The "mode" argument must be integer. Received an instance of Object - Google 搜尋](https://www.google.com/search?q=TypeError+%5BERR_INVALID_ARG_TYPE%5D%3A+The+%22mode%22+argument+must+be+integer.+Received+an+instance+of+Object&rlz=1C1CHBF_zh-TWTW911TW911&oq=TypeError+%5BERR_INVALID_ARG_TYPE%5D%3A+The+%22mode%22+argument+must+be+integer.+Received+an+instance+of+Object&aqs=chrome..69i57.590j0j7&sourceid=chrome&ie=UTF-8)
